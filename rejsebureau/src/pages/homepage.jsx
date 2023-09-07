@@ -4,7 +4,8 @@ export default function HomePage() {
         <>
             <section className="videoContent">
                 <h1>Travel Co.</h1>
-                <p>This is a travel company.</p>
+                <p>Traveling is a wonderful way to explore new places, experience different cultures, and create lasting memories. Whether you&#39;re a seasoned traveler or a novice adventurer, there are countless travel destinations to choose from. From exotic beaches to bustling cities!.</p>
+                <p>With us you can find your desired travel destination and we&#39;ll show the best option for you!</p>
 
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/LydoK7hXKbs?si=SAoGyvBNvFanpsQc&amp;controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </section>

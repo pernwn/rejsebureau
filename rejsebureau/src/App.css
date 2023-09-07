@@ -4,12 +4,18 @@
   box-sizing: border-box;
 }
 
+h1, h2, h3, h4{
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-weight: 400;
+  color:#0c469d;
+}
+
 #root {
   text-align: center;
 }
 
 body {
-  background-color: #f4fdff;
+  background-color: #f6f9fa;
   height:1000px;
 }
 
@@ -29,7 +35,7 @@ body {
   display: flex;
   justify-content: space-evenly;
 
-  background-color: #abe8f9;
+  background-color: #eefbff;
   position: fixed;
 }
 
@@ -54,7 +60,7 @@ body {
 
 /*FOOTER STYLES*/
 footer{
-  background-color: #abe8f9;
+  background-color: #eefbff;
 }
 
 
